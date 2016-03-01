@@ -1,4 +1,2 @@
 npm install
-bower install
-./gradlew
-grunt
+./gradlew -Pprod clean bootRepackage
